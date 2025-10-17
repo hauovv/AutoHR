@@ -4,4 +4,4 @@
 |Name       |Contents|
 |-----------|--------------------------------------------|
 |[XL-AutoMAIL](./XL-AutoMAIL/README.md)|설명|
-|[Daily Worker Payrol](./Daily%20Worker%20Payroll/README.md)|Blank|
+|[Daily Worker Payroll](./Daily%20Worker%20Payroll/README.md)|Blank|
