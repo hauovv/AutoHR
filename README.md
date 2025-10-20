@@ -1,7 +1,7 @@
 # AutomaticHR
 오토메틱 HR에 대한 설명
 ## HR Automatil Toolkit
-|Tool Name|Contents|
+|Tool Name|Description|
 |-----------|--------------------------------------------|
 |[XL-AutoMAIL](./XL-AutoMAIL/README.md)|XL-AutoMAIL은 Excel과 Outlook을 연동해 수신자별 맞춤 메일을 자동 생성·발송하는 대량 메일 자동화 도구입니다.|
 |[Daily Worker Payroll](./Daily%20Worker%20Payroll/README.md)|Blank|
