@@ -5,7 +5,7 @@
 |-----------|--------------------------------------------|
 |[XL-AutoMAIL](./XL-AutoMAIL/README.md)|설명|
 |[Daily Worker Payroll](./Daily%20Worker%20Payroll/README.md)|Blank|
-|[PDF AutoPass](./PDF%20Locker/README.md)|Blank|
+|[PDF AutoPassword](./PDF%20Locker/README.md)|Blank|
 ### XLAutoMAIL - 엑셀 오토메일
 
 > 🎯 **XL-AutoMAIL V.1.0.1**  
