@@ -14,7 +14,7 @@
 
 ***
 ## 파일 다운로드
-[XL-PDFLock_V0.1.zip 다운로드](https://github.com/vveekzero/AutoHR/raw/refs/heads/main/XL-PDFLock/Files/XL-PdfLock_V1.0.zip)
+[XL-PDFLock_V0.1.zip 다운로드](https://github.com/hauovv/AutoHR/raw/refs/heads/main/XL-PDFLock/Files/XL-PdfLock_V1.0.zip)
 ※ zip 압축 파일입니다. 반드시 압축을 풀고 사용하세요.
 
 ## 파일 사용법
